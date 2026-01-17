@@ -1,0 +1,27 @@
+{
+  "name": "full-backend",
+  "version": "1.0.0",
+  "description": "tantai0718",
+  "keywords": [
+    "taitai0718"
+  ],
+  "homepage": "https://github.com/tantai0718/backend#readme",
+  "bugs": {
+    "url": "https://github.com/tantai0718/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tantai0718/backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node sever.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
